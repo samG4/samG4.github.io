@@ -1,21 +1,21 @@
 {
-    "name": "my_portfolio",
-    "short_name": "my_portfolio",
+    "name": "Samrat Garai",
+    "short_name": "sam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hi, I'm a developer. This is my profile - I bring ideas to life through mobile/web apps. Check my profile to see more details.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "favicon.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "favicon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
